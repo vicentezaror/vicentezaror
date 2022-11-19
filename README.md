@@ -8,15 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" />
 </div>
 
-<div styles="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vicentezaror&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw"
+  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vicentezaror&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080
 />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vicentezaror&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw"
-  />
 </div>
