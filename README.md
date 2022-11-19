@@ -4,6 +4,9 @@
 
 <div align="center" >
   <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" />
+  <a href="https://linkedin.com/in/vicentezaror" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif"> Hi, I'm Vicente</h1>
