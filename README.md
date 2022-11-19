@@ -4,6 +4,8 @@
 
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif"> Hi, I'm Vicente</h1>
 
+<p>:computer: Software engineering student from Chile :cl:. Currently working at [Firme](https://firme.app) 📝 and studing at [PUC](https://uc.cl) 🏫</p>
+
 <div align="center" >
   <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" />
 </div>
