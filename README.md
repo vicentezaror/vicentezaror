@@ -1,4 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" style="object-fit: cover;" width="100%" height="100" align="center" />
-</div>
+<img src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/grid-snake.svg" alt="snake" align="center" />
 <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" align="center" />
+<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif">, I'm Vicente</h1>
