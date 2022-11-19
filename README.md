@@ -7,7 +7,7 @@
 <h1 align="center"><a href="https://www.github.com/vicentezaror"><img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif"></a> Hi, I'm Vicente</h1>
 
 <div align="center" >
-  <p>:computer: Software engineering student from Chile :cl:. Currently working at <a href="https://www.firme.app" target="_blank">Firme</a> 📝 and studing at <a href="https://www.uc.cl" target="_blank">PUC<a> 🏫</p>
+  <p>:computer: Software engineering student from Chile :cl:. Currently working at <a href="https://www.firme.app" target="_blank" style="color: green;">Firme</a> 📝 and studing at <a href="https://www.uc.cl" target="_blank">PUC<a> 🏫</p>
 </div>
 
 <br />
