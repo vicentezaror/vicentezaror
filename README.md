@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" />
 </div>
 
-<div align="center">
+<div align="center" styles="display: flex; flex-direction: column;" >
   <img
     src="https://github-readme-stats.vercel.app/api?username=vicentezaror&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw"
