@@ -4,8 +4,10 @@
 
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif"> Hi, I'm Vicente</h1>
 
-<p>:computer: Software engineering student from Chile :cl:. Currently working at <a href="https://firme.app">Firme</a> 📝 and studing at <a href="https://uc.cl">PUC<a> 🏫</p>
-
+<div align="center">
+  <p>:computer: Software engineering student from Chile :cl:. Currently working at <a href="https://firme.app">Firme</a> 📝 and studing at <a href="https://uc.cl">PUC<a> 🏫</p>
+</div>
+    
 <div align="center" >
   <img src="https://komarev.com/ghpvc/?username=vicentezaror&style=flat&color=gray" alt="" />
 </div>
