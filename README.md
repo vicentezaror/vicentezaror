@@ -1,5 +1,5 @@
 <div align="center" >
-  <a href="#">
+  <a href="">
     <img src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/grid-snake.svg" alt="snake"/>
   </a>
 </div>
