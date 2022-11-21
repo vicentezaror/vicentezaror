@@ -1,8 +1,8 @@
-<div align="center" >
+<!-- <div align="center" >
   <a href="#">
     <img src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/grid-snake.svg" alt="snake"/>
   </a>
-</div>
+</div> -->
 
 <h1 align="center"><a href="#"><img width="35" src="https://raw.githubusercontent.com/vicentezaror/vicentezaror/main/img/waving.gif"></a> Hi, I'm Vicente</h1>
 
